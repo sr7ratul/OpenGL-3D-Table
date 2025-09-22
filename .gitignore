@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.pdb
+*.idb
+*.ipch
+*.obj
+*.exe
+*.ilk
+*.log
+
+# Build folders
+Debug/
+Release/
+x64/
+3D/x64/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+
+# Others
+*.dll
+*.lib
+*.exp
